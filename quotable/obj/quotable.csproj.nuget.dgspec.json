@@ -20,13 +20,13 @@
           "C:\\Users\\Thomas Van Zeeland\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.2"
+          "netstandard2.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.2": {
+          "netstandard2.0": {
             "projectReferences": {}
           }
         },
@@ -37,12 +37,12 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.2": {
+        "netstandard2.0": {
           "dependencies": {
-            "Microsoft.NETCore.App": {
+            "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.2.0, )",
+              "version": "[2.0.3, )",
               "autoReferenced": true
             }
           },
