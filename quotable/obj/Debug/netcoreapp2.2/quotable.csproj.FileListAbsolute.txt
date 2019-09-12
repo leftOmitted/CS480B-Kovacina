@@ -1,0 +1,11 @@
+C:\Users\Thomas Van Zeeland\480Repository\CS480B-Kovacina\quotable\bin\Debug\netcoreapp2.2\quotable.deps.json
+C:\Users\Thomas Van Zeeland\480Repository\CS480B-Kovacina\quotable\bin\Debug\netcoreapp2.2\quotable.runtimeconfig.json
+C:\Users\Thomas Van Zeeland\480Repository\CS480B-Kovacina\quotable\bin\Debug\netcoreapp2.2\quotable.runtimeconfig.dev.json
+C:\Users\Thomas Van Zeeland\480Repository\CS480B-Kovacina\quotable\bin\Debug\netcoreapp2.2\quotable.dll
+C:\Users\Thomas Van Zeeland\480Repository\CS480B-Kovacina\quotable\bin\Debug\netcoreapp2.2\quotable.pdb
+C:\Users\Thomas Van Zeeland\480Repository\CS480B-Kovacina\quotable\obj\Debug\netcoreapp2.2\quotable.csprojAssemblyReference.cache
+C:\Users\Thomas Van Zeeland\480Repository\CS480B-Kovacina\quotable\obj\Debug\netcoreapp2.2\quotable.csproj.CoreCompileInputs.cache
+C:\Users\Thomas Van Zeeland\480Repository\CS480B-Kovacina\quotable\obj\Debug\netcoreapp2.2\quotable.AssemblyInfoInputs.cache
+C:\Users\Thomas Van Zeeland\480Repository\CS480B-Kovacina\quotable\obj\Debug\netcoreapp2.2\quotable.AssemblyInfo.cs
+C:\Users\Thomas Van Zeeland\480Repository\CS480B-Kovacina\quotable\obj\Debug\netcoreapp2.2\quotable.dll
+C:\Users\Thomas Van Zeeland\480Repository\CS480B-Kovacina\quotable\obj\Debug\netcoreapp2.2\quotable.pdb

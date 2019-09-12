@@ -1,0 +1,9 @@
+C:\Users\Thomas Van Zeeland\480Repository\CS480B-Kovacina\quotable\bin\Debug\netstandard2.0\quotable.deps.json
+C:\Users\Thomas Van Zeeland\480Repository\CS480B-Kovacina\quotable\bin\Debug\netstandard2.0\quotable.dll
+C:\Users\Thomas Van Zeeland\480Repository\CS480B-Kovacina\quotable\bin\Debug\netstandard2.0\quotable.pdb
+C:\Users\Thomas Van Zeeland\480Repository\CS480B-Kovacina\quotable\obj\Debug\netstandard2.0\quotable.csprojAssemblyReference.cache
+C:\Users\Thomas Van Zeeland\480Repository\CS480B-Kovacina\quotable\obj\Debug\netstandard2.0\quotable.csproj.CoreCompileInputs.cache
+C:\Users\Thomas Van Zeeland\480Repository\CS480B-Kovacina\quotable\obj\Debug\netstandard2.0\quotable.AssemblyInfoInputs.cache
+C:\Users\Thomas Van Zeeland\480Repository\CS480B-Kovacina\quotable\obj\Debug\netstandard2.0\quotable.AssemblyInfo.cs
+C:\Users\Thomas Van Zeeland\480Repository\CS480B-Kovacina\quotable\obj\Debug\netstandard2.0\quotable.dll
+C:\Users\Thomas Van Zeeland\480Repository\CS480B-Kovacina\quotable\obj\Debug\netstandard2.0\quotable.pdb
