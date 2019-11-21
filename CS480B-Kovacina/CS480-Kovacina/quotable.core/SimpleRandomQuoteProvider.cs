@@ -4,30 +4,18 @@ using System.Text;
 
 namespace quotable.core
 {
-	/// <summary>
-	/// A random quote provider that uses hardcoded quotes and will repeat quotes as needed.
-	/// </summary>
+	///random quote provider that works really simply
 	public class SimpleRandomQuoteProvider : RandomQuoteProvider
 	{
-		// JCK
-		private static readonly string Quote1 = "The only thing you have to fear is fear itself";
 
-		// Jocko Willink
-		private static readonly string Quote2 = "Good.";
-
-		// a Stoic quote
-		private static readonly string Quote3 = "Neither hope nore fear.";
-
-		// Mark Rippetoe
-		private static readonly string Quote4 = "Strong people are harder to kill than weak people, and more useful in general.";
-
+		private static readonly string Quote1 = "I'm going to screech like a pteradactyl";
+		private static readonly string Quote2 = "I'm going to wheeze like a strange gremlin";
+		private static readonly string Quote3 = "How did this small gremlin creature get into my home?";
+		private static readonly string Quote4 = "I have opinions";
 		private readonly List<string> Quotes = new List<string>(){ Quote1, Quote2, Quote3, Quote4 };
-
-		/// <inheritdoc/>
 		public IEnumerable<string> GetRandomQuotes(long numberOfQuotes = 0)
 		{
-			// [miko]
-			// how do we repeatably test against something that is random?
+
 			var random = new Random();
 
 			var largestInt = (int)Math.Min(numberOfQuotes, Quotes.Count);

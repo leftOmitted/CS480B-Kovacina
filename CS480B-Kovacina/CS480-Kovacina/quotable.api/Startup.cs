@@ -14,12 +14,11 @@ using Microsoft.Extensions.Options;
 namespace quotable.api
 {
 	/// <summary>
-	/// The Startup class that is responsible for configuring the Quotable APIs.
+	/// this is the class that functions on startup that sets everything up
 	/// </summary>
     public class Startup
     {
 		/// <summary>
-		/// Constructor.
 		/// </summary>
 		/// <param name="configuration">The configuration to use</param>
         public Startup(IConfiguration configuration)
@@ -30,19 +29,17 @@ namespace quotable.api
         private IConfiguration Configuration { get; }
 
 		/// <summary>
-		/// This method adds services to the service container.
 		/// </summary>
-		/// <param name="services">The service collection to which to add services.</param>
+		/// <param name="services"></param>
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
         }
 
 		/// <summary>
-		/// This method is used to configure the HTTP request pipeline.
 		/// </summary>
-		/// <param name="app">The application builder to use.</param>
-		/// <param name="env">Information about the hosting environment.</param>
+		/// <param name="app"></param>
+		/// <param name="env"></param>
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
             if (env.IsDevelopment())
@@ -51,7 +48,7 @@ namespace quotable.api
             }
             else
             {
-                // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
+              
                 app.UseHsts();
             }
 
